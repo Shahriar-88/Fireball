@@ -5,9 +5,6 @@ A 2D Java OOP Game.
 * [Towhid Ahmed Foysal](https://github.com/Foysal87)
 * [Shahriar Habib Sony](https://github.com/Shahriar-88)
 
-Source: Some Code are copy from online platform and youtube. 
-
-
 # Requirements and Run
 
 * Netbeans or eclipse
