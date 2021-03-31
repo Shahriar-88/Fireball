@@ -3,7 +3,7 @@ A 2D Java OOP Game.
 
 ## Team Member
 * [Towhid Ahmed Foysal](https://github.com/Foysal87)
-* [Shahriar Habib Sony](https://github.com/Shahriar-88)
+* [Md. Shahriar Habib](https://github.com/Shahriar-88)
 
 # Requirements and Run
 
